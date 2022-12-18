@@ -43,5 +43,8 @@
     "fs": false,
     "os": false,
     "path": false
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
